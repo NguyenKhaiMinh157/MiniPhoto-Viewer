@@ -1,3 +1,5 @@
+Supported OS: Windows 10 and Windows 11 (64-bit)
+
 # MiniPhoto Viewer
 
 A lightweight Windows image viewer written in C++ using the Win32 API and GDI+.
