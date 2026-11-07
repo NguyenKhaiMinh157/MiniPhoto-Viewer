@@ -1,4 +1,4 @@
-Supported OS: Windows 10 and Windows 11 (64-bit)
+### Supported OS: Windows 10 and Windows 11 (64-bit)
 
 # MiniPhoto Viewer
 
@@ -106,3 +106,8 @@ MiniPhoto Viewer is a personal C++ learning project focused on Windows desktop p
 **Language:** C++  
 **Platform:** Windows  
 **Graphics:** GDI+
+
+### Preview
+<img width="984" height="693" alt="Preview" src="https://github.com/user-attachments/assets/2fe53111-1a5e-4c68-b824-5b942c066d95" />
+<img width="981" height="690" alt="1 0 1 preveww" src="https://github.com/user-attachments/assets/69d7f5c5-0387-4823-a45f-8181a10ba25e" />
+
